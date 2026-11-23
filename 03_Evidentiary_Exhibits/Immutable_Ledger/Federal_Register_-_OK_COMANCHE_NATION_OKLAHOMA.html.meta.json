@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=OK+COMANCHE+NATION+OKLAHOMA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=OK+COMANCHE+NATION+OKLAHOMA",
+  "title": "Federal Register - OK COMANCHE NATION OKLAHOMA",
+  "fetched_at": "2026-11-23T18:09:44.516235Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 291007,
+  "sha256": "c2559dd67e019ffda69d6791f4c0b54ef94ad1093c1e143033898f3d18d5dd08",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
